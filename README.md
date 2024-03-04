@@ -12,7 +12,6 @@ Sou um desenvolvedor Front end focado em UX/UI Design. Adoro criar interfaces bo
 
 ## Você pode me encontrar nas seguintes redes sociais:
 
-- Twitter
 - LinkedIn
 - Instagram
 
