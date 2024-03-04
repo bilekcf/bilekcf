@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou o Gabriel Bilek 👋
 
-<!--
-**bilekcf/bilekcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Front end focado em UX/UI Design. Adoro criar interfaces bonitas e funcionais para a web. Também sou editor de vídeo e jogador de Valorant nas horas vagas.
 
-Here are some ideas to get you started:
+## Minhas habilidades 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Figma, Adobe XD
+- HTML, CSS, JavaScript
+- React, Vue, Angular
+- Bootstrap, Tailwind, Material UI
+- Adobe Premiere, After Effects, Photoshop
+
+## Você pode me encontrar nas seguintes redes sociais:
+
+- Twitter
+- LinkedIn
+- Instagram
+
+Ou me mandar um email para: bieldzncf@icloud.com
